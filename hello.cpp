@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 void main()
 {
   printf("hello world\n");
 }
+=======
+hello world
+>>>>>>> master
